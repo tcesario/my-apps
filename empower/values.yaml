@@ -1,0 +1,21 @@
+global:
+  namespace: lab-devops
+
+authorization:
+  name: authorization
+  env: lab
+
+organization:
+  name: organization
+  env: lab
+
+authorization:
+  name: authorization
+  env: lab
+
+organization:
+  name: organization
+  env: lab
+
+marketplace:
+  name: marketplace
